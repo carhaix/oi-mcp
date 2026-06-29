@@ -1,6 +1,6 @@
 {
   "name": "oi-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "mcpName": "io.github.carhaix/oi",
   "description": "Registry metadata for the Oi MCP server.",
   "license": "MIT",
